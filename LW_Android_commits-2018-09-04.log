@@ -1,0 +1,24 @@
+* commit 8085a50a2351fe51ea8e20e45ab6f89b57f67561
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Tue Sep 4 00:29:52 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android
+|     
+|     # Conflicts:
+|     #       app/src/main/java/com/world/lynkedworld/ui/utils/Constants.java
+| 
+* commit fa4d01386ec06f3f636fceadeb68c0d56cabd023
+| Merge: dc92c16e 24e96eab
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Tue Sep 4 00:29:41 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android
+|     
+|     # Conflicts:
+|     #       app/src/main/java/com/world/lynkedworld/ui/utils/Constants.java
+| 
+* commit 24e96eabd36bdd063566f84e593b0abb5f476e7e
+  Author: Rajat Jaswal <rajat.jaswal@live.com>
+  Date:   Tue Sep 4 00:27:25 2018 +0530
+  
+      version update
