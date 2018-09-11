@@ -1,0 +1,234 @@
+* commit 1b2119b2f1a2a10b9dd315d82526ccfad0d2e19f
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Tue Sep 11 18:52:09 2018 +0530
+| 
+|     image controller handled. checkbox issue fix. other bug fixes. reffer trello
+|   
+*   commit e1ea9e0f7ac5527dae5b92952baa2321606de6ed
+|\  Merge: ded0b329 86f22c65
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Tue Sep 11 10:51:30 2018 +0530
+| | 
+| |     Merge branches 'app_redesign' and 'dev_dynamic_branch' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+* | commit ded0b3293be9c3952de046482a022f5bc6cda27c
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Mon Sep 10 17:02:27 2018 +0530
+| | 
+| |     some ui changes in dynamic form
+| | 
+| * commit 86f22c65646b0d1935cce2b50d977a41446c66d3
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Mon Sep 10 14:29:54 2018 +0530
+| | 
+| |     some ui changes
+| | 
+* | commit b7150ed845b7783d1f19c6ccfa0cca4a662c490d
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Mon Sep 10 14:07:27 2018 +0530
+| | 
+| |     help option view added. address field mandatory icon missing fix. save reset button issues. fix.
+| |   
+* |   commit cb3c54318096717bd13a4de66d48b32ae263626f
+|\ \  Merge: 2e3aca0d 2c79bd07
+| |/  Author: Rajat Jaswal <rajat.jaswal@live.com>
+| |   Date:   Mon Sep 10 02:49:18 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| |       
+| |       # Conflicts:
+| |       #       app/src/main/res/values/strings.xml
+| | 
+| * commit 2c79bd0767399806390665826cbb17d50781a3f1
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Sun Sep 9 15:09:41 2018 +0530
+| | 
+| |     removed now obsolete passcode library, related code cleaned up, added fingerprint support to passcode screen.
+| | 
+| * commit 5606bd73722f61574088a14f176ac0c3f5c746f2
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Sun Sep 9 10:36:37 2018 +0530
+| | 
+| |     initial fingerprint support.
+| | 
+| * commit 4eb1748f3eb3908f0ced3d11990b62b07762bfdc
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Sat Sep 8 21:35:18 2018 +0530
+| | 
+| |     passcode functionality implemented for all use cases.
+| | 
+* | commit 2e3aca0d181e1598988bc3bd80b9ae10ae13ee6e
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Sat Sep 8 13:32:51 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| |     
+| |     # Conflicts:
+| |     #       app/src/main/res/values/strings.xml
+| |   
+* |   commit 8a4a42f5d59675ff9cd039395d19045ebb0e02ec
+|\ \  Merge: b23a72a7 8e61facb
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Sat Sep 8 13:32:18 2018 +0530
+| | | 
+| | |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | |     
+| | |     # Conflicts:
+| | |     #       app/src/main/res/values/strings.xml
+| | | 
+* | | commit b23a72a72f1ed379a552a4cc35081ec2daa31667
+| | | Merge: 5e5aedf2 82878f4f
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Sat Sep 8 13:22:55 2018 +0530
+| | | 
+| | |     Merge branch 'dev' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | |     
+| | |     # Conflicts:
+| | |     #       app/src/main/java/com/world/lynkedworld/ui/base/BaseIdentityFragment.java
+| | | 
+* | | commit 5e5aedf2b0ebfa5d9cfdccb0c7d771e1e9da71a9
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Fri Sep 7 18:51:04 2018 +0530
+| | | 
+| | |     checkbox handled. radoibox and checkbox other option handeling.
+| | | 
+| | * commit 650a294843a2f8d928a4fc7faae1ba6aa7843de8
+| |/  Author: Rajat Jaswal <rajat.jaswal@live.com>
+| |   Date:   Fri Sep 7 17:14:49 2018 +0530
+| |   
+| |       new passcode setup.
+| | 
+* | commit 1c4efa869e7f39773063b7b6748d4c25af3ab06c
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Sep 7 14:49:56 2018 +0530
+| | 
+| |     checkbox handled. radoibox and checkbox other option handeling.
+| | 
+* | commit 9235a17f371f7bb1b0aa0313f8f962f2f113d17e
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Sep 6 17:25:42 2018 +0530
+| | 
+| |     dynamic form view added
+| | 
+* | commit 102a5a0e7371862e94aa722fbe2518505e4f98f2
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Sep 6 17:18:32 2018 +0530
+| | 
+| |     dynamic form view added
+| | 
+* | commit bedb310e1bbb4e0090b0207c3279bd4221051db9
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Thu Sep 6 13:58:58 2018 +0530
+|   
+|       dynamic form issues resolve
+| 
+* commit 8e61facb6397324248ea3523538def2d6dc02c4e
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Sep 5 17:34:08 2018 +0530
+| 
+|     network screen coloured icons added.
+| 
+* commit 6e3db6b970e69fc4d25a9551eac1cfb339bd4c5f
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Sep 5 17:33:39 2018 +0530
+| 
+|     network screen coloured icons added.
+|   
+*   commit 1b5aa874a3d5f7cdec7b198f13c7ba579316183d
+|\  Merge: 4c774fec ff3d806e
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Sep 5 17:02:27 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 4c774fec3bb0df1d9ff3fa015dad9441e7f0f96d
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Sep 5 17:01:40 2018 +0530
+| | 
+| |     description view added to adapters
+| | 
+| * commit ff3d806eed52715c6976d85b4ea21a676747a4cf
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Wed Sep 5 01:55:59 2018 +0530
+| | 
+| |     updated registration flow to make the label style and date pickers similar to ios and new screens. added back support for viewing job cards.
+| | 
+| * commit 24e96eabd36bdd063566f84e593b0abb5f476e7e
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Tue Sep 4 00:27:25 2018 +0530
+| | 
+| |     version update
+| | 
+| * commit d8e81a625284feb787e97805a259092a80f09776
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Mon Sep 3 15:25:38 2018 +0530
+| | 
+| |     version update
+| | 
+| * commit 5bff047a0762cee9fc8505c8bc66f725572daff5
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Mon Sep 3 15:21:43 2018 +0530
+| | 
+| |     version update
+| | 
+| * commit a2acf69e024ddcbdf16bf6f2d2a2f49dba584d64
+|/  Author: Rajat Jaswal <rajat.jaswal@live.com>
+|   Date:   Mon Sep 3 15:11:55 2018 +0530
+|   
+|       fixes for release.
+| 
+* commit 7c14ff1b0665ef01f03705cb373bc456d64bdcdc
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Mon Sep 3 14:19:30 2018 +0530
+| 
+|     experience edit image backup issue fix.
+| 
+* commit 02963d843c0eb5066b4c27b48a519b47497d777a
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Mon Sep 3 08:56:13 2018 +0530
+| 
+|     fixes for release.
+| 
+* commit 5199a1921e2d9e03be913a28e4d443082ea1cf5c
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Sat Sep 1 17:49:12 2018 +0530
+| 
+|     network fragment refined. search icon click bug fix
+| 
+* commit 808912b381157f1944e085c6e7d80c8dcbdf69af
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Sat Sep 1 17:26:43 2018 +0530
+| 
+|     network fragment refined. search icon click bug fix
+| 
+* commit 7519326b39eca34bd8aa3af4d54a13d8b5387a59
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Sat Sep 1 02:32:00 2018 +0530
+| 
+|     updated server to qa
+| 
+* commit 769ef4774d8a8f9a59e70ef887a171c71335a070
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Sat Sep 1 02:18:14 2018 +0530
+| 
+|     added skip mobile verification support
+| 
+* commit 658570c1bf42820ae9797cb6e8ec2fdd10567311
+| Merge: 987990e4 79b5c8a1
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Sat Sep 1 01:37:07 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit 987990e4546a160e23de8b8e2c720bbec5fc6f2f
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Sat Sep 1 01:36:35 2018 +0530
+| 
+|     refinements and updates for release.
+| 
+* commit 70e9adae6d3d4474f841e1c0a97020a6b42e4ba3
+  Merge: 3fafe31d 82878f4f
+  Author: Rajat Jaswal <rajat.jaswal@live.com>
+  Date:   Sat Sep 1 01:36:18 2018 +0530
+  
+      refinements and updates for release.
