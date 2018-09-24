@@ -1,0 +1,49 @@
+* commit ede95c1ae098b1def78b9b66129e64017593ef49
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Mon Sep 24 00:33:07 2018 +0530
+| 
+|     updated build version.
+| 
+* commit 62b32f8a014212a0c7848043a3b8d15cb3e75a8d
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Sun Sep 23 23:59:31 2018 +0530
+| 
+|     updated pdf viewing method for ID cards.
+| 
+* commit d2fd1a20e26e6b4bc79832c973ba3c47fd898f9f
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Sun Sep 23 10:42:23 2018 +0530
+| 
+|     fixed percentage update flow.
+|   
+*   commit 140b81aac2e6a5152d0765b761c99f3203abc274
+|\  Merge: 18572e46 75fe6f25
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Sun Sep 23 10:39:28 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+| * commit 75fe6f2525a64a60d55766db71713213a1ec6e63
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Sun Sep 23 10:37:30 2018 +0530
+| | 
+| |     fixed percentage update flow.
+| | 
+| * commit b67b908ae466254992c67d81ff54c265e1b29fa5
+|   Author: Rajat Jaswal <rajat.jaswal@live.com>
+|   Date:   Sun Sep 23 08:30:58 2018 +0530
+|   
+|       added support for pdf viewer in issued id cards. had to handle it as a link otherwise the pdf url was being opened directly in the browser.
+| 
+* commit 18572e46441fd1d7a77d0973aec2ef45d9554072
+| Merge: 43d21cf3 ff4fc837
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Sat Sep 22 20:53:03 2018 +0530
+| 
+|     Merge branch 'dev_dynamic_branch' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| 
+* commit 43d21cf34cb2d50350d4c565e8bc4e80fd2ce7b3
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Sat Sep 22 20:50:42 2018 +0530
+  
+      permission handling date formate issue in get dynamic form. page landing after scanning dynamic form issue fix

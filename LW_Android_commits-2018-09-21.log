@@ -1,0 +1,44 @@
+*   commit ff4fc83768a64d30dae8d493d9c1a979686de62b
+|\  Merge: b272b342 7cc47221
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Fri Sep 21 23:03:47 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+| * commit 7cc47221757e8a46037d885cab966e16b41c487d
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Fri Sep 21 23:02:13 2018 +0530
+| | 
+| |     added checks and updates for profile update percentage but still seems to be inconsistent during first launch.
+| | 
+* | commit b272b3428165fce09d48b593db45d8419188a829
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Sep 21 22:36:40 2018 +0530
+| | 
+| |     file upload control previw added.
+| |     file upload selected pdf files names not showinf issue fix.
+| |     select control default value issue fix.
+| | 
+| * commit cab9c729c869d0eb27ddcf69a5aee18fa8fad8e7
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Fri Sep 21 21:55:38 2018 +0530
+| | 
+| |     trello bug fixes.
+| | 
+* | commit 2fec25050728c6c8dc082aeaad13feb5e9f02a36
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Fri Sep 21 18:41:16 2018 +0530
+|   
+|       file preview logic added.
+| 
+* commit 0bb1c016096725c4ef37f6bd825a25292ebf4c17
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Fri Sep 21 16:40:06 2018 +0530
+| 
+|     trello bug fixes.
+| 
+* commit 3ab7ce33414c32933beae20076b8227571d9b476
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Fri Sep 21 16:23:19 2018 +0530
+  
+      new contacts flow complete.

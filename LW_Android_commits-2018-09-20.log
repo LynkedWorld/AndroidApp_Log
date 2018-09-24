@@ -1,0 +1,263 @@
+*   commit 7d97cccf6a039f0b6eae33c5694679e1a5d0fc9e
+|\  Merge: c7c903c2 2e61f606
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Thu Sep 20 23:42:32 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+| * commit 2e61f6067348b29de901394c2c6b62d7f09d1ba6
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Sep 20 21:45:49 2018 +0530
+| | 
+| |     issubmitted id not sending sometimes issue fix.
+| | 
+| * commit 4e3b675867c6b4581b4a3670d74402e8aa5cc5e8
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Sep 20 20:20:47 2018 +0530
+| | 
+| |     updated email verify contacts flow. needs testing.
+| | 
+* | commit c7c903c264e0a8fcb6a2d12dd33bddfba1262bf9
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Sep 20 17:57:53 2018 +0530
+| | 
+| |     issubmitted id not sending sometimes issue fix.
+| | 
+| * commit 9e7a345588dc3577dc50191ecb66343c9bae8d1f
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Sep 20 17:54:54 2018 +0530
+| | 
+| |     updated mobile verify contacts flow
+| | 
+* | commit af72ecfccd110c4fb8d3ff83e0ad0eb9bf556afb
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Sep 20 12:05:59 2018 +0530
+| | 
+| |     reset logic updated.
+| |   
+* |   commit bbb36fe29823bb2b34b3f1f23eae7fe81734e77e
+|\ \  Merge: 63dafc81 7fe9387c
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Thu Sep 20 10:14:03 2018 +0530
+| | | 
+| | |     Merge branch 'dev_dynamic_branch' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | | 
+* | | commit 63dafc817491d06f34dbeabb920cf34a054ba3f9
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Thu Sep 20 10:13:34 2018 +0530
+| | | 
+| | |     checkbox and radiobox handeling
+| | | 
+| | * commit 827fc6617eafe28eef49698a0cf2ad987663eee2
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Thu Sep 20 02:09:32 2018 +0530
+| | | 
+| | |     added country code handling and design for new contact flow
+| | | 
+| * | commit 7fe9387c140533f6e41130a9f5ed557b943a0c3a
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Thu Sep 20 01:33:26 2018 +0530
+| | | 
+| | |     company page redesign completed. needs overall refinement though.
+| | |   
+| * |   commit 952a557b3986883e6ef515404dfe4eaf21cc506a
+| |\ \  Merge: 0adf8038 6f9dfa8f
+| |/ /  Author: malcohmx <rajat.jaswal@gmail.com>
+|/| |   Date:   Wed Sep 19 20:13:50 2018 +0530
+| | |   
+| | |       Merge branch 'dev_dynamic_branch' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | | 
+| * | commit 0adf8038fd1dc1bc5fcb78dff18e17ac85dc1c04
+| | | Author: malcohmx <rajat.jaswal@gmail.com>
+| | | Date:   Wed Sep 19 20:13:20 2018 +0530
+| | | 
+| | |     updated company profile ui.
+| | | 
+* | | commit 6f9dfa8f1ae0878a148112849c329c89f94072a9
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Wed Sep 19 18:32:15 2018 +0530
+| | | 
+| | |     checkbox and radiobox handeling
+| | | 
+* | | commit 2fbca4a8ed477aeb6597454781839203293dffc1
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Wed Sep 19 15:10:44 2018 +0530
+| | | 
+| | |     file upload previously selected files count not showing issue fix.
+| | |   
+* | |   commit 9d8d5357297d962152307440e372118818d69c69
+|\ \ \  Merge: f37857e3 1a6fc8db
+| |/ /  Author: Deepak <bajpay3296@gmail.com>
+|/| /   Date:   Wed Sep 19 11:35:58 2018 +0530
+| |/    
+| |         Merge branches 'app_redesign' and 'dev_dynamic_branch' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+* | commit f37857e319fa80fe8ad7df96c1241f07edb9820b
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Tue Sep 18 18:34:57 2018 +0530
+| | 
+| |     image control position handled
+| | 
+* | commit cf27274f78852f3f23244fe9078f29162038e0fc
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Tue Sep 18 18:02:28 2018 +0530
+| | 
+| |     multiselection default selection part implemented. company profile page dynamic form section design updated.
+| | 
+* | commit b1077b055af80329673d57840a0533e800b30292
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Tue Sep 18 14:50:29 2018 +0530
+| | 
+| |     qr code scanning and generation done.
+| | 
+* | commit 4f38e86e6eaadb8312d823bb7c0c615c01ae148d
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Mon Sep 17 18:38:30 2018 +0530
+| | 
+| |     qr code scan for dynamic form done.
+| | 
+| * commit 1a6fc8dbeaf279a76e8b9a759caf7fbc4e910be4
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Mon Sep 17 16:45:42 2018 +0530
+| | 
+| |     initial setup for new contact screen flow.
+| |   
+* |   commit 2bfed813ea82ad40434a0b594984d1b4dc5ed56e
+|\ \  Merge: e34c8fc6 9e16ed50
+| |/  Author: Rajat Jaswal <rajat.jaswal@live.com>
+| |   Date:   Sat Sep 15 10:43:05 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+| * commit 9e16ed50d21ded0fa9ac652d1e351b54cc7216a5
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Sat Sep 15 10:40:29 2018 +0530
+| | 
+| |     fixed issue related to profile update.
+| | 
+* | commit e34c8fc642261af7f34cfc0f97b442f53ac83e86
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Sep 14 23:28:32 2018 +0530
+| | 
+| |     date format issue fix
+| |   
+* |   commit 5d9297137f9fc625aa024689410aae7da8e6b21a
+|\ \  Merge: bc11d558 d4c1051e
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Fri Sep 14 23:28:21 2018 +0530
+| | | 
+| | |     Merge branch 'dev_dynamic_branch' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | | 
+* | | commit bc11d5587b9f9b996488507555c69a2e5d55ae9a
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Fri Sep 14 23:27:56 2018 +0530
+| | | 
+| | |     date format issue fix
+| | | 
+* | | commit 40a8675da46bc9397d302a7bdaef57486cb2c334
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Fri Sep 14 23:23:08 2018 +0530
+| | | 
+| | |     date format issue fix
+| | |   
+| * |   commit d4c1051e713f59b6ec9c10f380f94992a8e63273
+| |\ \  Merge: 7d4d9dc5 d145f121
+|/ / /  Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | _   Date:   Thu Sep 13 23:47:17 2018 +0530
+| |     
+| |         Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+| * commit d145f1219955c98e35fe6bef297ebff69a643660
+| | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | Date:   Thu Sep 13 23:45:43 2018 +0530
+| | 
+| |     fix for notification image duplication issue and added auto next functionality for biometric authentication.
+| |   
+| *   commit 8bbd79054cea3f737d0acb076367376015ca92d2
+| |\  Merge: 7bedf53e 929133cf
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Thu Sep 13 23:06:34 2018 +0530
+| | | 
+| | |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | | 
+| * | commit 7bedf53ef5f82002f2136e035a45a7dd50bf469e
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Thu Sep 13 23:06:11 2018 +0530
+| | | 
+| | |     fix for notification image duplication issue and added auto next functionality for biometric authentication.
+| | | 
+* | | commit 7d4d9dc51e0ddd621541f6cfb2c6e387dad95918
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Thu Sep 13 22:58:54 2018 +0530
+| | | 
+| | |     dynamic form issue fixes
+| | |   
+| | *   commit 929133cf7b093aeebe6a2c50bd7b8581453e6f4c
+| | |\  Merge: 1b0fb203 091a8f91
+| | |/  Author: malcohmx <rajat.jaswal@gmail.com>
+| |/|   Date:   Thu Sep 13 22:55:38 2018 +0530
+| | |   
+| | |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | | 
+| | * commit 1b0fb2038582d50712e2a46d905f6f5aceb1279e
+| |   Author: malcohmx <rajat.jaswal@gmail.com>
+| |   Date:   Thu Sep 13 22:54:56 2018 +0530
+| |   
+| |       added socket listener for profile percentage change.
+| |   
+* |   commit 8d2639d226d127725f8570c17b9b3e8df2251173
+|\ \  Merge: 09614828 091a8f91
+| |/  Author: Deepak <bajpay3296@gmail.com>
+| |   Date:   Thu Sep 13 22:26:44 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| | 
+* | commit 09614828a7e4c3c0dd2c195a56b3a9d19bf9a2f7
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Sep 13 18:31:46 2018 +0530
+| | 
+| |     dynamic form issue fixes
+| |   
+| *   commit 091a8f91da9e0abc4fb6dce61b0478bdb29c10bb
+| |\  Merge: c52564d1 144515df
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Thu Sep 13 17:52:16 2018 +0530
+| | | 
+| | |     Merge branch 'dev' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | | 
+| | * commit 144515df79f7384819ffda091a67099c3822f5f8
+| | | Author: Rajat Jaswal <rajat.jaswal@live.com>
+| | | Date:   Thu Sep 13 17:51:10 2018 +0530
+| | | 
+| | |     minor search ui update, update date picker style and removed current date from add exp, edu pages during registration, updated label and flow for sign up.
+| | | 
+* | | commit 1fe359d58e4f3003d6b7b82dbe7f3a0abe505897
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Thu Sep 13 14:02:16 2018 +0530
+| | | 
+| | |     dynamic form refinements
+| | | 
+| | * commit 2ce8a185be83b850e8043b362d501264b4b152cb
+| |   Author: Rajat Jaswal <rajat.jaswal@live.com>
+| |   Date:   Thu Sep 13 11:03:12 2018 +0530
+| |   
+| |       possible fix for the notification list user image showing twice issue.
+| | 
+| * commit c52564d1b5fa096a1c129066014af11306fd789c
+|   Author: Rajat Jaswal <rajat.jaswal@live.com>
+|   Date:   Thu Sep 13 11:00:58 2018 +0530
+|   
+|       Added progress color to progress count view and circle view.
+| 
+* commit a24b548c6087a37bf8c7d159d7dc7b5ea472e06c
+| Merge: ec00c82d 9477b524
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Sep 12 18:40:45 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into dev_dynamic_branch
+| 
+* commit ec00c82d1732c1ddbc8aa47deebea49e05ab5f13
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Wed Sep 12 18:40:13 2018 +0530
+  
+      dynamic form image and file upload done.
