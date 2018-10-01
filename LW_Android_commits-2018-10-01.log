@@ -1,0 +1,43 @@
+* commit fa0ec32fe86289539f87466339aeaead59186da9
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Mon Oct 1 19:52:17 2018 +0530
+| 
+|     remove pic option added in education fragment.
+|   
+*   commit a9e68287e56f41ef6a23bddb1210c1312fac0b37
+|\  Merge: b9972028 e638f768
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Mon Oct 1 17:02:53 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+| * commit e638f768083eae33efd4119e354d349e4b29b3c8
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Mon Oct 1 16:36:37 2018 +0530
+| | 
+| |     added long click hint for server version.
+| |   
+* |   commit b99720288c6a2937fe7f959ae10c4a9ce099c666
+|\ \  Merge: 89c3c870 e30fc089
+| |/  Author: Deepak <bajpay3296@gmail.com>
+| |   Date:   Mon Oct 1 10:04:44 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 89c3c870e70a0bba1c30f31f8d8c1c3a0e5fa390
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Mon Oct 1 10:04:19 2018 +0530
+|   
+|       debugging
+| 
+* commit e30fc0892da9e935dfeefa2be3d6cf704575fea2
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Sun Sep 30 19:16:12 2018 +0530
+| 
+|     updated version code for production update.
+| 
+* commit 178b77b94fcea8cd633e74159eb1efe22814f07e
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Sun Sep 30 18:22:44 2018 +0530
+  
+      fix for confirm email crash and logging for qr code functionality.
