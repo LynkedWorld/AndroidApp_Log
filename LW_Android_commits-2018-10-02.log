@@ -1,0 +1,15 @@
+* commit 6d2db9de5272d165d83c68d174fdbfcbe4192f0a
+| Merge: 94344014 fa0ec32f
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 2 18:40:10 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+|     
+|     # Conflicts:
+|     #       app/src/main/java/com/world/lynkedworld/ui/dashboard/settingmenu/close_account/CloseAccountFragment.java
+| 
+* commit 94344014ffc1e9230f357f7503740856f9cf7a2d
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Tue Oct 2 18:38:20 2018 +0530
+  
+      added special referral code flow functionality.
