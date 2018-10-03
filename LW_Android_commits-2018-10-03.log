@@ -1,0 +1,38 @@
+*   commit e7a9e14cd2ab7bd1f14b6da9440c8bbb6ed9bf96
+|\  Merge: f29b588f b6501529
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Oct 3 21:09:01 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit f29b588f089dc820851774e04372583312d52f78
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Oct 3 21:07:13 2018 +0530
+| | 
+| |     remove image option added in all modules
+| |   
+| *   commit b65015298ed2a2242ba3afc518472002a5cf6cec
+| |\  Merge: bfc98519 d7d42a4c
+| |/  Author: malcohmx <rajat.jaswal@gmail.com>
+|/|   Date:   Wed Oct 3 16:30:57 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+| * commit bfc98519924ed79d7362b8f38b648326c454b81a
+|   Author: malcohmx <rajat.jaswal@gmail.com>
+|   Date:   Wed Oct 3 16:28:32 2018 +0530
+|   
+|       fixed special referral code flow and added socket functionality for email verification
+| 
+* commit d7d42a4ccb3520397cc662b7cbcdf05fd9a0f97b
+| Merge: 3c40bd38 6d2db9de
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Oct 3 13:33:48 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit 3c40bd384d4ba528cb915f7c1af279e3bceca828
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Wed Oct 3 13:32:47 2018 +0530
+  
+      remove pic option added in project
