@@ -1,0 +1,88 @@
+* commit 58d94d3a2fa163cc0bb70c0e665dce607ec177c9
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Thu Oct 4 20:44:22 2018 +0530
+| 
+|     updated company direct feed referral code flow.
+|   
+*   commit e4b9bed44abfad13e8b393bc4b02a79c51545438
+|\  Merge: 1234cf2f 7343c4f0
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Oct 4 20:23:27 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 1234cf2fa87f8155e0f816ad835d31f7e27d4e25
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Oct 4 20:22:32 2018 +0530
+| | 
+| |     fixed api call for resent otp in registration and contacts screen.
+| | 
+| * commit 7343c4f0934ed860e8f338bd316f6b9209f7ece4
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 4 19:03:00 2018 +0530
+| | 
+| |     eduction completion year issue fix
+| |   
+| *   commit e59006015c53146faafd3258c0851bcb384a59f9
+| |\  Merge: ec7ddaff 9d8093c6
+| |/  Author: Deepak <bajpay3296@gmail.com>
+|/|   Date:   Thu Oct 4 18:53:31 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+| * commit ec7ddaff781d5c209371da86348924d2ba931b82
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 4 18:52:32 2018 +0530
+| | 
+| |     aadhar dob label fix
+| |   
+* |   commit 9d8093c67164f75fd506729a1fac8d2e12dad089
+|\ \  Merge: 93b3eee6 8851256f
+| |/  Author: malcohmx <rajat.jaswal@gmail.com>
+| |   Date:   Thu Oct 4 18:26:53 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 93b3eee68d60c8f0fd736ff6f71cf1aaf4f6d991
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Oct 4 18:26:35 2018 +0530
+| | 
+| |     trello bug fixes.
+| | 
+| * commit 8851256f42bccccdd6f4d6e2195ae9eb9f0b26e2
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 4 18:22:24 2018 +0530
+| | 
+| |     aadhar dob label fix
+| | 
+| * commit 648c995b2442cc1ce82f9d48cb822cc8c2321e23
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 4 18:16:15 2018 +0530
+| | 
+| |     delete and update comment functionality added
+| |     dynamic form confirmation popup when required document control selected.
+| |   
+* |   commit c204c895be9057c2d66e691496960fbd1fba63cc
+|\ \  Merge: 3c45a079 53969638
+| |/  Author: malcohmx <rajat.jaswal@gmail.com>
+| |   Date:   Thu Oct 4 14:04:00 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 3c45a079beffbe1df049cc3a6688a4b7bacaa93d
+ /  Author: malcohmx <rajat.jaswal@gmail.com>
+|   Date:   Thu Oct 4 14:03:39 2018 +0530
+|   
+|       trello bug fixes.
+| 
+* commit 53969638d9334f203ef93a625a60386984aa1432
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Thu Oct 4 09:12:26 2018 +0530
+| 
+|     verify details screen issues fix.
+| 
+* commit 98b5536ec38279beb1b292e954b98cdeb008226b
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Thu Oct 4 09:08:24 2018 +0530
+  
+      verify details screen issues fix.
