@@ -1,0 +1,25 @@
+* commit d68a94e1461758eadc19faa43e201d72c8d3dd1c
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Fri Oct 5 20:25:41 2018 +0530
+| 
+|     trello bug fixes
+| 
+* commit 75e505d0ef4995e87562da1d289925aa112d3723
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Fri Oct 5 16:38:04 2018 +0530
+| 
+|     trello bug fixes and some crash fixes.
+| 
+* commit 488e7b8fd14d36b360e35671c3393f866f1e493e
+| Merge: ba2c461e 58d94d3a
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Fri Oct 5 07:52:44 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit ba2c461e364d3ea45a667a1516cdea3c72fba47a
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Fri Oct 5 07:52:03 2018 +0530
+  
+      dynamic form bug fix.
+      remove option in dob and address issue fix.
