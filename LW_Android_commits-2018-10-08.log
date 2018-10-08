@@ -1,0 +1,25 @@
+*   commit 1aeeab0f76e44a339b31f5942a08bdff09567525
+|\  Merge: 75a2cea1 71899b2f
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Mon Oct 8 22:44:23 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 75a2cea16f0602352281ce48d5974a920e69a6ea
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Mon Oct 8 22:44:08 2018 +0530
+| | 
+| |     verify others data redesign, trello bug and crash fixes.
+| | 
+| * commit 71899b2f19acbe309508eaa64f5fe2f34199b93c
+|/  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Sat Oct 6 18:07:22 2018 +0530
+|   
+|       notification click handled.
+|       dynamic form check box issue fix.
+| 
+* commit 676b28a90aedf915b772af23b02150bd99842914
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Sat Oct 6 10:30:21 2018 +0530
+  
+      updated version for release.
