@@ -1,0 +1,5 @@
+* commit a11a0a92bf87e7813b495ed702687a7b695b9e4b
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Wed Oct 10 11:54:47 2018 +0530
+  
+      dynamic form file viewing logic changed. previously we were downloading user uploaded files to view them now directly showing from url.
