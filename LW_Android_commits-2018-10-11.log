@@ -1,0 +1,38 @@
+*   commit 294fc02ff1c786c7743f844f6654e2292d2e157a
+|\  Merge: 535b8660 05826848
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 11 18:31:03 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into BaseIdentityFragmentRefinement
+| | 
+* | commit 535b86608a39f87a760ebc12961ff64022b67ad1
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 11 18:29:55 2018 +0530
+| | 
+| |     baseIdentityFragment redesigned.
+| |   
+| *   commit 05826848640fa945af202a180301bf0d136bd89d
+| |\  Merge: 77b63bb6 dfb7e822
+| |/  Author: malcohmx <rajat.jaswal@gmail.com>
+|/|   Date:   Thu Oct 11 17:55:29 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+| * commit 77b63bb60c60d72b10d8e4060e247899db137ca6
+|   Author: malcohmx <rajat.jaswal@gmail.com>
+|   Date:   Thu Oct 11 17:55:11 2018 +0530
+|   
+|       location flow and api completed. issue in fetching location object in some cases. sending empty value in those instances. updated library versions.
+| 
+* commit dfb7e82287b0ace0354e5c0d97446c9e933cb20d
+| Merge: e49e7f90 af7e8d41
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Thu Oct 11 15:27:36 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit e49e7f90d3970c0d2257326532c44421ae0ba0d5
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Thu Oct 11 15:26:39 2018 +0530
+  
+      VerifyDetailes edit record option refined.
