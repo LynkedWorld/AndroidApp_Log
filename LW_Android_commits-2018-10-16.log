@@ -1,0 +1,34 @@
+* commit 984fcc2ce13abd491ff255c2177954c0b7e97f49
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 16 21:13:31 2018 +0530
+| 
+|     updated build version for release.
+| 
+* commit 78fe860aa91b56166d0d4c8682ae5acf26c3f4c9
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 16 18:59:20 2018 +0530
+| 
+|     updated base url back to QA
+| 
+* commit 45abff1e362f339a0eadcac61c44cd2c54b8d832
+| Merge: 04e75261 49476b7c
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 16 18:58:34 2018 +0530
+| 
+|     Merge branch 'master' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+|     
+|     # Conflicts:
+|     #       app/src/main/java/com/world/lynkedworld/ui/dashboard/feed/custom_view_holders/BlogPostViewHolder.java
+|     #       app/src/main/java/com/world/lynkedworld/ui/dashboard/feed/cutom_views/BlogCard.java
+| 
+* commit 04e7526105b1eff9324985c0b932edcadf8a9a33
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 16 18:54:10 2018 +0530
+| 
+|     trello bug fixes.
+| 
+* commit a8d9b453775789eebc7fdf57219e92e8acc8b551
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Tue Oct 16 18:28:08 2018 +0530
+  
+      trello bug fixes.
