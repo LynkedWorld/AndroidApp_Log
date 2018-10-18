@@ -1,0 +1,98 @@
+* commit 00840d73286fdef82f665db6ca129d5b465fa265
+| Author: Rajat Jaswal <rajat.jaswal@live.com>
+| Date:   Wed Oct 17 23:46:41 2018 +0530
+| 
+|     glide to picasso migration complete.
+|   
+*   commit bee70e9e8b8a37698deebde50eabc4c364100cc1
+|\  Merge: 2f2bb625 8bc5a74e
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Wed Oct 17 21:00:58 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 2f2bb6252fc996f8ef4e16ffe2629817441d9328
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Wed Oct 17 21:00:38 2018 +0530
+| | 
+| |     glide to picasso. converted around 60% of the references. one issue in dynamic form which deepak will address tomorrow.
+| | 
+| * commit 8bc5a74e9c2bc4d0e45c298f060cc1bd82bb2a40
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Oct 17 18:28:08 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| |     
+| |     # Conflicts:
+| |     #       app/src/main/java/com/world/lynkedworld/DashboardActivity.java
+| |   
+| *   commit d282f101531d0768f5adf2cf43ad6cf66d2add6b
+| |\  Merge: e2e7068c b5c1030d
+| |/  Author: Deepak <bajpay3296@gmail.com>
+|/|   Date:   Wed Oct 17 18:27:34 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| |   
+| *   commit e2e7068cdd54684307b5afdade7869d3e3747509
+| |\  Merge: e95e1dc2 04720c35
+| | | Author: Deepak <bajpay3296@gmail.com>
+| | | Date:   Wed Oct 17 18:27:09 2018 +0530
+| | | 
+| | |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | |     
+| | |     # Conflicts:
+| | |     #       app/src/main/java/com/world/lynkedworld/DashboardActivity.java
+| | | 
+* | | commit b5c1030d0dca7dd1fc9471ddf6c19ef588ad1a90
+| |/  Author: malcohmx <rajat.jaswal@gmail.com>
+|/|   Date:   Wed Oct 17 18:25:17 2018 +0530
+| |   
+| |       remaining ui update
+| | 
+| * commit e95e1dc22f85c1d8815b5fc5713ef14d0c225aa8
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Oct 17 18:25:01 2018 +0530
+| | 
+| |     keyboard not opening automatically on select user for verification screen issue fix.
+| |     trello bug fixes
+| | 
+* | commit 04720c35db5582ce9cf1235e05c7cb844da78e3e
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Wed Oct 17 18:17:32 2018 +0530
+| | 
+| |     trello bug fixes.
+| | 
+* | commit 41d16c41e391fad3cd88f09368917c50908b0115
+|/  Author: malcohmx <rajat.jaswal@gmail.com>
+|   Date:   Wed Oct 17 17:26:35 2018 +0530
+|   
+|       updated backup settings, fixed bugs
+| 
+* commit 70d1d562e548bb92cfbfe910350c8a685d7d6d4b
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Oct 17 10:51:34 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+|     
+|     # Conflicts:
+|     #       app/build.gradle
+|     #       app/src/main/res/layout/dialog_add_organization.xml
+|     #       app/src/main/res/values/strings.xml
+| 
+* commit f4fcacd246948f8b2913e9b164bf0df725a38f3f
+| Merge: c5dac40e 984fcc2c
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Oct 17 10:50:16 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+|     
+|     # Conflicts:
+|     #       app/build.gradle
+|     #       app/src/main/res/layout/dialog_add_organization.xml
+|     #       app/src/main/res/values/strings.xml
+| 
+* commit c5dac40e28fcea521b2fd4ae1bbe7a726debaaa2
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Wed Oct 17 10:44:35 2018 +0530
+  
+      wallet screen edit texts redesigned.

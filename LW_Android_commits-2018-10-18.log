@@ -1,0 +1,30 @@
+* commit f8d0cf7566c8aae21d12b61734b123d650651c13
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Thu Oct 18 18:04:39 2018 +0530
+| 
+|     dynamic form edittext work
+| 
+* commit aa70efc62b2f5cbcc5834e338ffd14eda3ce5bbd
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Thu Oct 18 16:58:41 2018 +0530
+| 
+|     trello fixes.
+|   
+*   commit b6abcc61c300019108ed755dc990b4487cd110c0
+|\  Merge: e3b2f924 a5e906b3
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Oct 18 14:03:39 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit e3b2f924fd1310b5ebe5b71cf5565cacabf48a7d
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Thu Oct 18 14:02:06 2018 +0530
+|   
+|       glide added due to filepicker library issue.
+| 
+* commit a5e906b37be7cfbfe1e6dc05ff72d1dfd3dcbb67
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Thu Oct 18 12:38:49 2018 +0530
+  
+      fixes for image not showing on some screens.
