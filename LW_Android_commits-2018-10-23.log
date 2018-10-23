@@ -1,0 +1,45 @@
+* commit 37899770aafdb4bd4220e942e997a383453f67f4
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Tue Oct 23 18:33:50 2018 +0530
+| 
+|     multiple file saving issue fix.
+|     account restore stuck issue fix,
+|     fix related to deleted account backup.
+| 
+* commit adac9f99359819bc37fe2930439a1f1030801eaa
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Tue Oct 23 15:03:01 2018 +0530
+| 
+|     backup issues fix.
+| 
+* commit 081af397f9b6d89683aef5e1af540b2a7b73e303
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Tue Oct 23 14:44:26 2018 +0530
+| 
+|     backup issues fix.
+|   
+*   commit 6e1fe30cfdf685e821e2522df7268c3bc883d8c3
+|\  Merge: 462e460e f721892d
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Tue Oct 23 11:15:43 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 462e460e35cfb450a259e827653e7691d8b336a6
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Tue Oct 23 11:15:16 2018 +0530
+|   
+|       cross drawable colour change
+| 
+* commit f721892d6551ebc49cca6211bab322fe75275fa0
+| Merge: 94e5ecbf 05465e0b
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 23 10:14:25 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit 94e5ecbfafdc75659b31f75b9157fbf490927e77
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Tue Oct 23 10:13:57 2018 +0530
+  
+      updated allow data access list UI's.
