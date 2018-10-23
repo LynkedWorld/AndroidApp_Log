@@ -1,0 +1,17 @@
+* commit 05465e0b9b17c1c94908bd367609d2a6c0ad91bd
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Mon Oct 22 18:56:01 2018 +0530
+| 
+|     duplicate file saving issue fix
+| 
+* commit b883acbd1a1fca0b2a057d2df69c02ee58d003c6
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Mon Oct 22 13:52:41 2018 +0530
+| 
+|     fixes
+| 
+* commit bc201f24681ad5dcb687396dd70e645879d67c3d
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Mon Oct 22 12:25:23 2018 +0530
+  
+      updated to androidx and some vital bug/crash fixes.
