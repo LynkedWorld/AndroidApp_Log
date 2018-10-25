@@ -1,0 +1,14 @@
+* commit a48a6e4d570e84bd4f01d2df463c4fb079de2c96
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Thu Oct 25 16:52:34 2018 +0530
+| 
+|     save button issue fix.
+|     feed related notification click handled.
+| 
+* commit ade2e35c16cf3e488e68972352db3b2504ec7873
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Thu Oct 25 16:33:31 2018 +0530
+  
+      Write Comment(Optional) editable text area should be little bigger- fixed
+      Android ->Wallet-> Identity it should be 'Date of Birth' in place of 'DOB'   - done.
+      save button on edit profile not working- fixed.
