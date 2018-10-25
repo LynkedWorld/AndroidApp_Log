@@ -1,0 +1,50 @@
+* commit a1cf047145538a233436a37aeb948f959c0bfbe9
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Oct 24 18:36:12 2018 +0530
+| 
+|     some changes.
+| 
+* commit a9fbd2bb271539b7e1bc0ea95ee3b41497ea80e3
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Wed Oct 24 14:46:20 2018 +0530
+| 
+|     some fixes
+|   
+*   commit 9f5e05c0078844fc6dabd9446ad39e14bf282a30
+|\  Merge: 94c6ea55 bdd31fd4
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Wed Oct 24 14:24:16 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+| * commit bdd31fd47c3ce86cd1ba2c30acaa307ff5662a43
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Wed Oct 24 14:23:02 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| |     
+| |     # Conflicts:
+| |     #       app/src/main/res/layout/dialog_link_organization.xml
+| | 
+| * commit 1fb379e23ffe534f3e4268a52209d09ba28f520f
+| | Merge: 513fd651 37899770
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Wed Oct 24 14:22:54 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| |     
+| |     # Conflicts:
+| |     #       app/src/main/res/layout/dialog_link_organization.xml
+| | 
+* | commit 94c6ea55a4b2bae32dbce6856d5b8c175ba8261a
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Wed Oct 24 14:21:41 2018 +0530
+|   
+|       for edit records image preview stand alon fragment opened.
+|       old image showing after image update issue fix.
+| 
+* commit 513fd651e5487a29c99de7e380f509ff8b7c730a
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Wed Oct 24 14:19:52 2018 +0530
+  
+      updated pending authorize data section flow.
