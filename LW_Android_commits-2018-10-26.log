@@ -1,0 +1,63 @@
+*   commit 03ed96a540bdb5fd64355f1c13259c8ebde0675e
+|\  Merge: a90f55f4 83be3f0f
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Oct 26 17:38:14 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit a90f55f4c0da9717ea6b3401106cbaec6c7c788a
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Oct 26 17:37:19 2018 +0530
+| | 
+| |     remove profile image option added.
+| | 
+* | commit be428d9bb328fd857073579d83066bb2885f08bf
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Oct 26 17:37:04 2018 +0530
+| | 
+| |     remove profile image option added.
+| |   
+| *   commit 83be3f0fa972c40bd5588a073f8b1dada985683a
+| |\  Merge: 14477122 664b3d27
+| |/  Author: malcohmx <rajat.jaswal@gmail.com>
+|/|   Date:   Fri Oct 26 16:18:50 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+| * commit 1447712276d4f3d1ab4c4e4c5bcb215f6ab03b95
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Fri Oct 26 16:18:30 2018 +0530
+| | 
+| |     request data access ui update complete.
+| | 
+* | commit 664b3d27e72b5ac43879c3cf35e759921edda30a
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Oct 26 13:21:12 2018 +0530
+| | 
+| |     merge
+| |   
+* |   commit 2fd0db29f464d9a76f176b06bf5c35bcbb7927e6
+|\ \  Merge: e7345ecb 5dcc92f4
+| |/  Author: Deepak <bajpay3296@gmail.com>
+| |   Date:   Fri Oct 26 13:20:10 2018 +0530
+| |   
+| |       Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit e7345ecbabb81832e4e36040a88a6f5f7735df33
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Fri Oct 26 13:18:51 2018 +0530
+|   
+|       dynamic form edittext view updated to floating type label.
+| 
+* commit 5dcc92f440b353514d01c4cdcd34761cdefe7ce7
+| Merge: 735c546c a48a6e4d
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Fri Oct 26 00:07:22 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit 735c546caec165063e7999fa197ea136d6824ea6
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Fri Oct 26 00:07:02 2018 +0530
+  
+      updated authorize data access functionality. just need to modify the top header ui now.
