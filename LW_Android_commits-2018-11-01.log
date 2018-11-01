@@ -1,0 +1,36 @@
+* commit 7781b34e91da151182a537b9b690657e61a56b44
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Thu Nov 1 18:36:56 2018 +0530
+| 
+|     trello bug fixes.
+|   
+*   commit ec09b4287bc81a5ee0b9b38763b7539e33dc6d83
+|\  Merge: 3967a9fb b15430b9
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Nov 1 18:14:48 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 3967a9fbbdae480edd06405e52b9a021d47984de
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Thu Nov 1 18:14:26 2018 +0530
+| | 
+| |     authorize data access ui complete.
+| | 
+| * commit b15430b9726477ce9f56da31e9cafd542893aefa
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Thu Nov 1 17:32:49 2018 +0530
+| | 
+| |     signup flow hint colour issue fix.
+| | 
+| * commit 78ccb96c74e284b6c5e3684527783f0424a71bcd
+|   Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Thu Nov 1 17:28:41 2018 +0530
+|   
+|       signup flow hint colour issue fix.
+| 
+* commit c120526f98d7f1d4910dc0470302d2d251919a5a
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Thu Nov 1 11:32:44 2018 +0530
+  
+      authorize data access flow overhaul.
