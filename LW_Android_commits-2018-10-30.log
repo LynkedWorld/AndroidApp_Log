@@ -1,0 +1,25 @@
+*   commit 3fa222d6c14ced3161bac1f0aa119829baae5929
+|\  Merge: 397a181c c883144d
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Tue Oct 30 18:16:56 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit 397a181c4a4adc8031bdd51ec961dc6456199ea6
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Tue Oct 30 18:15:38 2018 +0530
+|   
+|       ui changes. trello fixes.
+| 
+* commit c883144de064a224227a381eb376ea11dccf5800
+| Merge: f6341f06 a83c86f4
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Oct 30 17:10:19 2018 +0530
+| 
+|     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| 
+* commit f6341f060b3e96d2bb33df1bfce25096adadcfe6
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Tue Oct 30 17:09:45 2018 +0530
+  
+      bug fixes.
