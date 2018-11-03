@@ -1,0 +1,21 @@
+*   commit debfaaa4042c53a25ffa57da547e1b312551f290
+|\  Merge: 627d2de0 0b8d8d37
+| | Author: Deepak <bajpay3296@gmail.com>
+| | Date:   Fri Nov 2 18:52:28 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| |     
+| |     # Conflicts:
+| |     #       app/src/main/java/com/world/lynkedworld/ui/utils/Utilities.java
+| | 
+* | commit 627d2de01677ca2e865f470c2795a7b57d9974a8
+ /  Author: Deepak <bajpay3296@gmail.com>
+|   Date:   Fri Nov 2 18:50:48 2018 +0530
+|   
+|       created utilities functions for dateDifference.
+| 
+* commit 0b8d8d37180752ec82d0a473b0f4a7b77f19e63c
+  Author: malcohmx <rajat.jaswal@gmail.com>
+  Date:   Fri Nov 2 08:54:40 2018 +0530
+  
+      trello bug fixes.
