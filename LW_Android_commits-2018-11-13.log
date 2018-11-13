@@ -1,0 +1,30 @@
+* commit 9012b42931a9f6210e1b4de27783ac91e431df7e
+| Author: Deepak <bajpay3296@gmail.com>
+| Date:   Tue Nov 13 18:16:27 2018 +0530
+| 
+|     identity section header updated.
+| 
+* commit 1082a489060f0d166fb7aa5408c32364935ab1f6
+| Author: malcohmx <rajat.jaswal@gmail.com>
+| Date:   Tue Nov 13 10:06:42 2018 +0530
+| 
+|     trello bug fixes.
+|   
+*   commit f32b201d544911b7683c8a9c45f436c9c574907b
+|\  Merge: b2eafe3f 8e674dc5
+| | Author: malcohmx <rajat.jaswal@gmail.com>
+| | Date:   Mon Nov 12 17:40:13 2018 +0530
+| | 
+| |     Merge branch 'app_redesign' of https://bitbucket.org/lynkedworld/lynked.world-android into app_redesign
+| | 
+* | commit b2eafe3fddf2dc2a98c64db7739f067f29267124
+ /  Author: malcohmx <rajat.jaswal@gmail.com>
+|   Date:   Mon Nov 12 17:39:40 2018 +0530
+|   
+|       trello bug fixes.
+| 
+* commit 8e674dc58726acec8944e5884bea2899beac509f
+  Author: Deepak <bajpay3296@gmail.com>
+  Date:   Mon Nov 12 13:59:25 2018 +0530
+  
+      add member page issue fix.
